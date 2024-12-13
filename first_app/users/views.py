@@ -3,14 +3,17 @@ from django.http import HttpResponse
 
 users = [
     {
+        "id": 1,
         "name": "John Doe",
         "email": "example@mail.com"
     },
     {
+        "id": 2,
         "name": "Semen Kos",
         "email": "semen.kos@mail.com"
     },
     {
+        "id": 3,
         "name": "Petro Oles",
         "email": "petro.oles@mail.com"
     },
